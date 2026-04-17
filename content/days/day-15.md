@@ -29,3 +29,29 @@ title: "Day 15 — Cultural Curiosity"
 ## Note
 
 **"Is that shifting?"** = is the norm changing over time? A smart follow-up question in any cultural conversation — it shows you understand that cultures aren't static.
+
+---
+
+## Practice
+
+### Blind Practice
+
+Cover the Sentences and Dialog above. Without looking, say the key sentences aloud from memory. Then open the page and see what you missed.
+
+→ [[guide/blind-practice|How to do Blind Practice]]
+
+### Recording Task
+
+Record yourself going through the Dialog once, without stopping to correct yourself.
+
+**Today's focus:** Curiosity. These sentences ask questions. Does your voice sound genuinely interested?
+
+Listen back once. Don't over-analyse.
+
+### Self-Check
+
+- [ ] I did the Blind Practice before recording
+- [ ] I recorded without stopping mid-sentence
+- [ ] I listened back to my recording
+
+→ [[guide/self-assessment|Score your recording]]

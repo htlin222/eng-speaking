@@ -32,3 +32,12 @@ title: 24天英文口說的蜥蜴
 | 4 | [[days/day-22\|Day 22]] | Deep Conversation |
 | 4 | [[days/day-23\|Day 23]] | Improvisation |
 | 4 | [[days/day-24\|Day 24]] | Free Response |
+
+---
+
+## Guides
+
+- [[progress|Progress Tracker]]
+- [[guide/blind-practice|Blind Practice — 盲聽訓練法]]
+- [[guide/self-assessment|Self-Assessment Rubric]]
+- [[guide/pronunciation|Pronunciation Reference]]

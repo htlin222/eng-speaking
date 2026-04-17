@@ -30,3 +30,29 @@ title: "Day 14 — Telling Stories"
 ## Note
 
 **"To set the scene"** is a storyteller's move — it signals to the listener that context is coming and they should pay attention. It buys you time to structure what comes next.
+
+---
+
+## Practice
+
+### Blind Practice
+
+Cover the Sentences and Dialog above. Without looking, say the key sentences aloud from memory. Then open the page and see what you missed.
+
+→ [[guide/blind-practice|How to do Blind Practice]]
+
+### Recording Task
+
+Record yourself going through the Dialog once, without stopping to correct yourself.
+
+**Today's focus:** Momentum. A good story builds. Does yours accelerate toward the reveal?
+
+Listen back once. Don't over-analyse.
+
+### Self-Check
+
+- [ ] I did the Blind Practice before recording
+- [ ] I recorded without stopping mid-sentence
+- [ ] I listened back to my recording
+
+→ [[guide/self-assessment|Score your recording]]

@@ -29,3 +29,29 @@ title: "Day 13 — Agreeing & Disagreeing"
 ## Note
 
 **"That tracks"** = that makes sense / aligns with what I know. More casual than "I agree" and suggests you're actively thinking it through, not just nodding along.
+
+---
+
+## Practice
+
+### Blind Practice
+
+Cover the Sentences and Dialog above. Without looking, say the key sentences aloud from memory. Then open the page and see what you missed.
+
+→ [[guide/blind-practice|How to do Blind Practice]]
+
+### Recording Task
+
+Record yourself going through the Dialog once, without stopping to correct yourself.
+
+**Today's focus:** Balance. You're disagreeing without dismissing. Is that audible in your tone?
+
+Listen back once. Don't over-analyse.
+
+### Self-Check
+
+- [ ] I did the Blind Practice before recording
+- [ ] I recorded without stopping mid-sentence
+- [ ] I listened back to my recording
+
+→ [[guide/self-assessment|Score your recording]]

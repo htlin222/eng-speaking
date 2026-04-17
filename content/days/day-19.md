@@ -29,3 +29,29 @@ title: "Day 19 — Goals & Ambitions"
 ## Note
 
 **"Direction rather than destination"** acknowledges that goals evolve. It's a frame for people who have drive but haven't yet found a fixed endpoint — and that's most people.
+
+---
+
+## Practice
+
+### Blind Practice
+
+Cover the Sentences and Dialog above. Without looking, say the key sentences aloud from memory. Then open the page and see what you missed.
+
+→ [[guide/blind-practice|How to do Blind Practice]]
+
+### Recording Task
+
+Record yourself going through the Dialog once, without stopping to correct yourself.
+
+**Today's focus:** Resolve. These sentences are about what you actually want. Mean them.
+
+Listen back once. Don't over-analyse.
+
+### Self-Check
+
+- [ ] I did the Blind Practice before recording
+- [ ] I recorded without stopping mid-sentence
+- [ ] I listened back to my recording
+
+→ [[guide/self-assessment|Score your recording]]

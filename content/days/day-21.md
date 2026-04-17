@@ -30,3 +30,29 @@ title: "Day 21 — Filler & Transitions"
 ## Note
 
 Filler language keeps a conversation alive while your thoughts catch up. The difference between a native speaker and a learner is often not vocabulary — it's the ability to **keep speaking naturally** through the gaps. These phrases do exactly that.
+
+---
+
+## Practice
+
+### Blind Practice
+
+Cover the Sentences and Dialog above. Without looking, say the key sentences aloud from memory. Then open the page and see what you missed.
+
+→ [[guide/blind-practice|How to do Blind Practice]]
+
+### Recording Task
+
+Record yourself going through the Dialog once, without stopping to correct yourself.
+
+**Today's focus:** Naturalness. Filler language only works if it sounds unconscious. Does yours?
+
+Listen back once. Don't over-analyse.
+
+### Self-Check
+
+- [ ] I did the Blind Practice before recording
+- [ ] I recorded without stopping mid-sentence
+- [ ] I listened back to my recording
+
+→ [[guide/self-assessment|Score your recording]]

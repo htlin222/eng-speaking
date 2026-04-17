@@ -29,3 +29,29 @@ title: "Day 11 — Talking About Change"
 ## Note
 
 **"Unlearn"** is more powerful than "forget" when describing letting go of habits or assumptions — it implies the knowledge was real but needed to be revised.
+
+---
+
+## Practice
+
+### Blind Practice
+
+Cover the Sentences and Dialog above. Without looking, say the key sentences aloud from memory. Then open the page and see what you missed.
+
+→ [[guide/blind-practice|How to do Blind Practice]]
+
+### Recording Task
+
+Record yourself going through the Dialog once, without stopping to correct yourself.
+
+**Today's focus:** Reflection. These sentences look backward. Let your pace slow accordingly.
+
+Listen back once. Don't over-analyse.
+
+### Self-Check
+
+- [ ] I did the Blind Practice before recording
+- [ ] I recorded without stopping mid-sentence
+- [ ] I listened back to my recording
+
+→ [[guide/self-assessment|Score your recording]]

@@ -29,3 +29,29 @@ title: "Day 12 — Health & Wellbeing"
 ## Note
 
 **"Mental load"** = the accumulating, often invisible cognitive and emotional weight of managing your life. Worth knowing because it gives language to something many people feel but can't name.
+
+---
+
+## Practice
+
+### Blind Practice
+
+Cover the Sentences and Dialog above. Without looking, say the key sentences aloud from memory. Then open the page and see what you missed.
+
+→ [[guide/blind-practice|How to do Blind Practice]]
+
+### Recording Task
+
+Record yourself going through the Dialog once, without stopping to correct yourself.
+
+**Today's focus:** Honesty. Health conversations work when the speaker seems to actually mean it.
+
+Listen back once. Don't over-analyse.
+
+### Self-Check
+
+- [ ] I did the Blind Practice before recording
+- [ ] I recorded without stopping mid-sentence
+- [ ] I listened back to my recording
+
+→ [[guide/self-assessment|Score your recording]]

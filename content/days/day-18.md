@@ -29,3 +29,29 @@ title: "Day 18 — Comfort & Support"
 ## Note
 
 **"I won't offer advice unless you want it"** is one of the most valuable things you can say to someone in distress. Most people want to be heard, not fixed. Saying this out loud changes the whole dynamic.
+
+---
+
+## Practice
+
+### Blind Practice
+
+Cover the Sentences and Dialog above. Without looking, say the key sentences aloud from memory. Then open the page and see what you missed.
+
+→ [[guide/blind-practice|How to do Blind Practice]]
+
+### Recording Task
+
+Record yourself going through the Dialog once, without stopping to correct yourself.
+
+**Today's focus:** Stillness. Support doesn't rush. Let the sentences land before moving on.
+
+Listen back once. Don't over-analyse.
+
+### Self-Check
+
+- [ ] I did the Blind Practice before recording
+- [ ] I recorded without stopping mid-sentence
+- [ ] I listened back to my recording
+
+→ [[guide/self-assessment|Score your recording]]

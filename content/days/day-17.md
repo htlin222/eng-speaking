@@ -29,3 +29,29 @@ title: "Day 17 — Persuading & Negotiating"
 ## Note
 
 **"What would it take for you to be comfortable with this?"** shifts the dynamic — it invites the other person to define the conditions rather than simply resist. It's collaborative, not confrontational.
+
+---
+
+## Practice
+
+### Blind Practice
+
+Cover the Sentences and Dialog above. Without looking, say the key sentences aloud from memory. Then open the page and see what you missed.
+
+→ [[guide/blind-practice|How to do Blind Practice]]
+
+### Recording Task
+
+Record yourself going through the Dialog once, without stopping to correct yourself.
+
+**Today's focus:** Patience. Persuasion isn't pressure. Does your voice sound like it has time?
+
+Listen back once. Don't over-analyse.
+
+### Self-Check
+
+- [ ] I did the Blind Practice before recording
+- [ ] I recorded without stopping mid-sentence
+- [ ] I listened back to my recording
+
+→ [[guide/self-assessment|Score your recording]]
