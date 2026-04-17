@@ -6,16 +6,17 @@ title: "Day 03 — Weekend & Leisure"
 
 ## Sentences
 
-- I ended up just staying in — no regrets.
-- We stumbled across this little place near the river.
-- I finally got around to finishing that book.
-- The whole weekend just disappeared somehow.
-- I needed the time to decompress more than anything.
-- We kept it low-key, which was exactly what I needed.
-- I didn't check my phone once — it was glorious.
-- We went on a complete whim, no plans whatsoever.
-- I've been meaning to do that for months.
-- It turned into a proper adventure, unexpectedly.
+- We had no itinerary whatsoever, which turned out to be precisely what the weekend needed.
+- I found myself genuinely absorbed in something for the first time in weeks.
+- There's a particular pleasure in being somewhere with no particular obligation to be anywhere.
+- We stumbled into a small gallery and spent far longer there than we'd anticipated.
+- I spent most of Sunday doing absolutely nothing of consequence, and I refuse to feel guilty about it.
+- It's remarkable what a change of scene does to your ability to think clearly.
+- We ended up at a place someone had mentioned in passing months ago. Worth every detour.
+- I read until two in the morning and didn't notice the time going. That's a rarity.
+- There's a version of rest that leaves you more depleted than before, and then there's what I had this weekend.
+- I came back with no output to show for it and somehow felt more productive for it.
+
 
 ## Dialog
 

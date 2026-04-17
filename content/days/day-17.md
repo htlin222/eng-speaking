@@ -6,16 +6,17 @@ title: "Day 17 — Persuading & Negotiating"
 
 ## Sentences
 
-- Hear me out before you decide.
-- I think there's a version of this that works for both of us.
-- What would it take for you to be comfortable with this?
-- I'm not asking you to agree — just to consider it seriously.
-- Let's see if we can find some middle ground.
-- I understand the concern. Here's how I'd address it.
-- What if we ran a trial before making anything permanent?
-- I can live with that, as long as we revisit in a month.
-- It's worth the short-term discomfort for what it leads to.
-- I'm open to adjusting — which part bothers you most?
+- Before you decide, would you be willing to hear the case laid out in full?
+- I think there's a version of this that addresses your primary concern and still accomplishes what we need.
+- What would need to be true for this to be something you could support?
+- I'm not asking for unconditional agreement — I'm asking for serious consideration on the merits.
+- I wonder if we're overweighting the short-term costs relative to the medium-term benefits.
+- I can accommodate most of what you've raised. The one thing I'd push back on is the timeline.
+- Let's see if we can find the version of this that neither of us loves entirely but both of us can commit to.
+- I want to understand your objection precisely, because I think there may be a version of the proposal that resolves it.
+- I'd rather we arrive at something durable than something quick. I have more patience than this conversation might suggest.
+- What would a satisfactory outcome look like from your position? I'd find that useful to know before we go further.
+
 
 ## Dialog
 

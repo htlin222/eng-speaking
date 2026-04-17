@@ -6,16 +6,17 @@ title: "Day 12 — Health & Wellbeing"
 
 ## Sentences
 
-- I've been trying to get to bed at a reasonable hour.
-- Sleep makes such a difference — I forget that until I'm not getting it.
-- I've been moving more, which has helped with my head more than my body.
-- I overdid it at the gym and now I'm paying for it.
-- I've been eating better, not perfectly, but with more intention.
-- I finally went to see someone and I'm glad I did.
-- Mental load is a real thing — I can feel it physically.
-- I'm learning when to stop before I hit empty.
-- It's less about what I'm doing and more about what I'm not doing.
-- Rest is not the same as giving up. I had to remind myself of that.
+- I've started treating sleep with a seriousness I should have arrived at rather earlier.
+- There's a quality of attention I simply cannot access when I'm not adequately rested, and I've stopped pretending otherwise.
+- I've been making more considered choices about what I eat — not with rigidity, but with intention.
+- The mental load accumulated gradually, and by the time I noticed it, I was already operating at a deficit.
+- I've learned to distinguish between productive exhaustion and the kind that signals something is wrong.
+- I finally sought proper help with something I'd been managing poorly on my own. That was the correct decision, made several months too late.
+- I've become more deliberate about protecting time for things that restore rather than merely distract.
+- There's a particular clarity that returns when you've been genuinely still for long enough. I'd forgotten what it felt like.
+- I've stopped apologising for taking the physical dimension of my wellbeing seriously.
+- Movement has done more for my thinking than most of what I've read on the subject of thinking.
+
 
 ## Dialog
 

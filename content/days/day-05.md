@@ -6,16 +6,17 @@ title: "Day 05 — Making Plans"
 
 ## Sentences
 
-- Let's actually nail down a time before we both forget.
-- I'm wide open next week, pretty much any day.
-- Thursday works on my end — how does that land for you?
-- We keep saying we'll do this. Let's just commit.
-- I'll send something over and we can adjust from there.
-- Pencil me in and we'll confirm closer to the date.
-- I'd rather do it properly than squeeze it in.
-- It doesn't have to be elaborate — just the two of us.
-- What's your preference — morning or afternoon?
-- I'm flexible, so work around what suits you best.
+- I keep proposing this in the abstract. Let's turn it into something concrete with an actual date.
+- I'm not precious about where or when — just tell me what works and I'll make it happen.
+- Thursday has a certain appeal. Does that give you enough runway?
+- I'd rather do this properly than try to squeeze it into a gap neither of us can really spare.
+- Consider yourself pencilled in. We can firm it up as we get closer.
+- I'm inclined to suggest the morning — I'm more present before midday, if I'm honest.
+- Let's not treat this as tentative. I'm putting it in my diary right now.
+- Whatever you propose, I'll work around. You have less flexibility than I do this week.
+- I'll send something over tonight so we have a record of it. Last time we left it to memory.
+- It doesn't need to be elaborate. Just somewhere we can actually hear each other.
+
 
 ## Dialog
 

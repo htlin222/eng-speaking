@@ -6,16 +6,17 @@ title: "Day 20 — Regrets & Reflection"
 
 ## Sentences
 
-- If I'm honest, I wish I'd started sooner.
-- I don't dwell on it — but I don't pretend it didn't happen.
-- That version of me made the best decision available at the time.
-- There are things I'd do differently. Whether I regret them is a separate question.
-- I've made peace with most of it. Most.
-- Looking back, the fear was never really about what I thought it was.
-- I spent too long waiting for conditions that were never going to be perfect.
-- Some decisions were mine. Some were made for me by not deciding.
-- I don't regret the try. I regret the hesitation before it.
-- Time has a way of recontextualising things you thought were final.
+- I've been revisiting certain decisions lately — not with regret exactly, but with a more honest appraisal than I could manage at the time.
+- The past has a way of becoming more legible as you acquire more distance from it.
+- I made choices that made sense with the information I had. Some of them I'd make differently now.
+- I carried certain beliefs about how things should go for far longer than the evidence warranted.
+- There are things I wish I'd begun sooner — not because it would have been easy, but because the delay compounded.
+- The things I regret are rarely the risks I took. They're the ones I talked myself out of.
+- I've stopped trying to assign the failure to a single moment or decision. It was a sequence, and I was implicated throughout.
+- In retrospect, what I called prudence was frequently the more comfortable arrangement.
+- I don't dwell on it. But I've stopped pretending the past is irrelevant to how I move forward.
+- There's a version of accountability that becomes wisdom rather than self-punishment, and I'm still learning the difference.
+
 
 ## Dialog
 

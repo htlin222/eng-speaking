@@ -6,16 +6,17 @@ title: "Day 06 — Food & Eating"
 
 ## Sentences
 
-- I've had a craving for something warm all day.
-- That was far better than I was expecting.
-- I'm too full to move — in the best possible way.
-- I could eat here every single week.
-- The flavours just layered so well together.
-- It's nothing fancy, but that's exactly why it works.
-- We should've ordered more — lesson learned.
-- The texture was all wrong, which is a shame.
-- I'll have whatever you're having.
-- Let's go somewhere we haven't tried yet.
+- I've had a particular craving that's been with me for three days and I intend to honour it tonight.
+- There's a restaurant I've been saving for a reason worth celebrating. This might be that reason.
+- The meal was exceptional — the kind where you keep returning to it in conversation days later.
+- I find myself measuring restaurants by whether I'd return without occasion. That place I'd return to weekly.
+- The menu had that quality of restraint that signals genuine confidence in the kitchen.
+- We ordered far more than was wise and apologised to no one for it.
+- There's a difference between food that satisfies and food that leaves an impression. That fell into the latter.
+- I'm someone who'll travel an unreasonable distance for something prepared well.
+- The service had that particular quality of attentiveness without intrusion, which is harder to achieve than it sounds.
+- We sat for three hours and it felt like less than one. That's the measure of a meal worth having.
+
 
 ## Dialog
 

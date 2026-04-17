@@ -6,16 +6,17 @@ title: "Day 18 — Comfort & Support"
 
 ## Sentences
 
-- I'm not going to pretend I know how that feels.
-- You don't have to figure this out right now.
-- Whatever you need — I'm here for the duration.
-- It makes sense that you're struggling. This is a lot.
-- You don't owe anyone an explanation right now.
-- I won't offer advice unless you want it.
-- You can say the same thing ten times and I'll still listen.
-- There's no right way to feel about this.
-- I'm glad you told me, even if I can't fix it.
-- Take whatever time you need. I'm not going anywhere.
+- I'm not going to attempt to find the silver lining. Some things just need to be hard for a while.
+- You don't owe anyone a particular emotional trajectory on any particular schedule.
+- I won't presume to know what the right thing to say is. I'll settle for being present.
+- Whatever you need this to be — a proper conversation, or simply company — I can do either.
+- There's no version of what you're carrying that you should be managing alone.
+- I won't offer solutions unless you want them. Sometimes the most useful thing I can do is just listen.
+- You don't have to explain yourself to me. Not how you feel, not why, not what comes next.
+- I'm here, and I'm not in any hurry. Take whatever time the conversation needs.
+- I find people often apologise for how they feel as though feelings are an imposition. You don't need to do that here.
+- I'm glad you said something, for what it's worth. I'd have wanted to know.
+
 
 ## Dialog
 

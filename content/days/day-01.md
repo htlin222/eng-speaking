@@ -6,16 +6,17 @@ title: "Day 01 — Reconnecting"
 
 ## Sentences
 
-- How've you been keeping?
-- It feels like forever since we last caught up.
-- You look well — things must be going okay.
-- I've been keeping myself busy, mostly.
-- We should do this more often, honestly.
-- Time just slips away if you're not careful.
-- What's been new on your end?
-- I was just thinking about you the other day.
-- It's good to put a face to the messages for once.
-- Same old, same old — but I can't complain.
+- It's been an age — you look well. Life must be agreeing with you.
+- I've thought about reaching out more times than I actually did.
+- We have a particular talent for letting time get away from us, don't we.
+- I've been keeping my head down lately, more out of necessity than preference.
+- There's a particular comfort in picking up where you left off with certain people.
+- I wasn't sure you'd remember — it's been that long.
+- I had every intention of writing, and then somehow months just evaporated.
+- You seem lighter than the last time I saw you. Something's shifted.
+- I find I'm more selective about how I spend my time now. This, though — this I'd always make room for.
+- Let's not leave it to chance next time. Let's actually commit to a date.
+
 
 ## Dialog
 

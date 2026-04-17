@@ -6,16 +6,17 @@ title: "Day 10 — Describing People"
 
 ## Sentences
 
-- She has this way of making everyone feel like the only person in the room.
-- He means well, but he doesn't always land it.
-- She's the kind of person who gets things done without making a fuss.
-- There's a quiet intensity about him that's hard to ignore.
-- She's perceptive — she picks up on things others miss.
-- He comes across a bit cold at first, but that's not the full picture.
-- She holds herself to a standard most people wouldn't bother with.
-- He's the sort who grows on you slowly.
-- She's hard to read, but consistent — and that counts for a lot.
-- He takes up space in a way that's magnetic, not overwhelming.
+- She has an uncommon capacity for making the people around her feel genuinely considered.
+- He's one of those rare individuals who manages to be direct without being blunt — an underrated distinction.
+- There's a precision to the way she thinks that makes conversation with her unusually productive.
+- He's easy to underestimate on first meeting, which I suspect he's learned to use to his advantage.
+- She carries her confidence so lightly you almost don't notice it until you've watched her in a room for a while.
+- He has a particular quality of stillness that makes him worth listening to when he does speak.
+- She's someone who takes people seriously without being credulous — not as common as you'd hope.
+- He means well with a consistency that redeems him from the moments when he falls short.
+- She's perceptive in a way that can be unnerving if you're not accustomed to being seen clearly.
+- He's the kind of person whose absence from a room becomes apparent after about ten minutes.
+
 
 ## Dialog
 

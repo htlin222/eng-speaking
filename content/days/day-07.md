@@ -6,16 +6,17 @@ title: "Day 07 — Work & Career"
 
 ## Sentences
 
-- It's one of those weeks where everything lands at once.
-- I'm trying to get ahead of it before it gets out of hand.
-- I've been doing a lot of thinking about where this is heading.
-- The work itself is fine — it's the environment that wears you down.
-- I'd rather do fewer things well than more things poorly.
-- I need something that gives me a reason to show up.
-- There's a difference between being busy and being productive.
-- I'm at a point where I'm asking different questions.
-- It pays well, but that's no longer enough.
-- I want to feel like what I do matters, at least a little.
+- I've been doing a great deal of thinking about what I'm actually building toward, and I'm not sure the answer I have is the right one.
+- The work itself remains engaging, but I've begun to notice when I'm performing enthusiasm rather than feeling it.
+- I've reached a point in my career where compensation is no longer sufficient justification on its own.
+- There's a particular kind of fatigue that comes not from doing too much, but from doing things that don't fully call on you.
+- I want to feel that I'm growing in ways that matter, not merely accumulating experience.
+- I've been asking different questions lately, which tells me the old ones have been answered.
+- I find I'm less tolerant of environments that confuse busyness with productivity.
+- The position carries considerable responsibility. What it hasn't offered is much room for original thought.
+- I'm at the stage where I'd sacrifice some security for more agency over my own work.
+- I'd rather build something imperfect of my own than execute someone else's vision well indefinitely.
+
 
 ## Dialog
 

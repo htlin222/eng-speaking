@@ -6,16 +6,17 @@ title: "Day 02 — Expressing Feelings"
 
 ## Sentences
 
-- I don't feel like doing much of anything today.
-- Something's been sitting on my chest all week.
-- I'm not quite myself lately — not sure why.
-- I feel lighter than I have in a while.
-- That conversation left me with a lot to think about.
-- I'm relieved, more than anything.
-- It's a strange mix of excited and terrified.
-- I can't really put it into words.
-- There's a certain restlessness I can't shake.
-- I've been running on fumes, if I'm being honest.
+- I've been carrying something I can't quite put my finger on all week.
+- There's a peculiar weight to being functional when you're not entirely fine.
+- I oscillate between feeling everything acutely and feeling curiously detached.
+- Something about the last few days has left me more reflective than I'd like.
+- I feel a particular restlessness that sleep doesn't seem to resolve.
+- Relief would be too strong a word, but something adjacent to it.
+- It's a strange thing — knowing the source of your disquiet and still not being able to dissolve it.
+- I'm not in a dark place exactly. More of a grey one.
+- I've been going through the motions with slightly more awareness than usual, which is both useful and uncomfortable.
+- Some feelings don't want analysis. They just want acknowledgement.
+
 
 ## Dialog
 

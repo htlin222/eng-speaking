@@ -6,16 +6,17 @@ title: "Day 08 — Travel & Getting Around"
 
 ## Sentences
 
-- Excuse me, am I heading in the right direction for the station?
-- Could you point me toward the main square?
-- Is it quicker to walk or take the metro from here?
-- I think I've been going in circles for the past ten minutes.
-- You can't miss it — it's just past the roundabout.
-- How long on foot, roughly?
-- I'd rather walk than wait for the next bus.
-- It turned out to be nowhere near where I thought.
-- We got completely turned around after leaving the market.
-- The map and reality were two very different things.
+- I wonder if you could orient me — I've managed to lose my bearings entirely in the last few blocks.
+- Is this the correct approach to the cathedral, or have I somehow doubled back on myself?
+- The map and the reality bear only a passing resemblance to one another, I'm finding.
+- I suspect I've been navigating by instinct rather than intelligence, which has landed me precisely here.
+- Could you point me toward the old town? I've been circling what I believe is its periphery.
+- On foot, how long would you estimate — assuming I don't take another wrong turn?
+- The signage in this part of the city presupposes a familiarity I don't yet have.
+- I'd rather ask now than compound the error. How far off am I?
+- It would seem I've managed to find the one street not on any map I've been given.
+- I'm grateful — I was beginning to resign myself to the scenic route.
+
 
 ## Dialog
 

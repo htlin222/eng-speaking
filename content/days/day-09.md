@@ -6,16 +6,17 @@ title: "Day 09 — Giving & Receiving Advice"
 
 ## Sentences
 
-- I don't want to tell you what to do, but have you considered—
-- What would you do if you were in my position?
-- I've been through something similar — take this for what it's worth.
-- You don't have to decide right now. Let it breathe.
-- Have you spoken to anyone else about this?
-- The thing that helped me most was just writing it down.
-- I think you already know the answer — you're just not ready to hear it.
-- Don't let anyone rush you into something you're unsure about.
-- What's the worst realistic outcome if you try?
-- I can offer a perspective, but this one's yours to make.
+- I won't presume to know what the right decision is, but I can offer you how I've thought about similar things.
+- What does your gut say when you strip away everyone else's expectations?
+- I've found that the options we keep returning to are usually the ones we've already half-decided on.
+- I'd be cautious of anyone who makes this sound simpler than it is. It isn't.
+- Have you allowed yourself to consider what you'd want if the practical objections didn't exist?
+- The fact that you're asking suggests you already have a position — you're looking for permission or for challenge.
+- I can offer a perspective, but this is ultimately a question only you have sufficient data to answer.
+- Don't mistake my confidence in you for certainty about the outcome. The two aren't the same.
+- What's the version of this that you'd be at peace with, even if it didn't go as planned?
+- Some decisions need to be sat with, not solved. This might be one of them.
+
 
 ## Dialog
 

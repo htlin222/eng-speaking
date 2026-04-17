@@ -6,16 +6,17 @@ title: "Day 14 — Telling Stories"
 
 ## Sentences
 
-- So this happened last week and I still can't get over it.
-- I should preface this by saying I didn't see it coming at all.
-- To set the scene — it was already a strange day.
-- I won't bore you with every detail, but the short version is—
-- And here's the part that still gets me.
-- I didn't know whether to laugh or be mortified.
-- It all made sense in retrospect, which made it worse.
-- The look on their face was something I'll carry for a while.
-- I was completely speechless — which, as you know, doesn't happen often.
-- I've told this story three times now and it still doesn't feel real.
+- I should preface this by saying I have no natural talent for brevity when it comes to this particular story.
+- To give you the context that will make the rest of this make sense — it had already been an unusual week.
+- I can tell you the facts or I can tell you the story. They're related but they're not the same thing.
+- The part that still strikes me, when I turn it over — is that I had absolutely no indication of what was coming.
+- And then comes the part I've told four times now and still can't entirely account for.
+- I found myself entirely without language for approximately ten seconds, which, if you know me, tells you something.
+- In retrospect, it was inevitable. At the time, it was the last thing I could have predicted.
+- I'm compressing several hours into a sentence here, but the essential sequence was this.
+- The look on their face was the kind you carry with you. I'll be revisiting it for some time.
+- I don't tell this story for the punchline. I tell it because I'm still not sure what to make of it.
+
 
 ## Dialog
 

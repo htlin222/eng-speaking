@@ -6,16 +6,17 @@ title: "Day 15 — Cultural Curiosity"
 
 ## Sentences
 
-- Is that a regional thing, or more widespread?
-- I find that fascinating — is it something that's shifting?
-- I'd never thought about it from that angle before.
-- We have something like that, but the context is completely different.
-- What's the expectation in that situation?
-- I think I might have misread that entirely.
-- Growing up, that would have been considered quite unusual.
-- There's no equivalent where I'm from, which makes it hard to explain.
-- How do people usually navigate that?
-- I notice it's something people feel strongly about — any history there?
+- Is that something that's fairly universal here, or does it vary considerably by generation?
+- I'm conscious that my frame of reference for this is limited — I'd genuinely like to understand it better.
+- We have something analogous where I'm from, though the context that surrounds it is quite different.
+- What's the appropriate response in that situation, for someone who doesn't want to cause offence inadvertently?
+- I notice it's a topic people feel strongly about. Is there a history to that I should know?
+- I'd read about it, but reading about something and encountering it are clearly different things.
+- I've been getting things subtly wrong for weeks, I suspect, without anyone telling me. That's somehow worse.
+- Could you help me understand what I'm missing? I'd rather be corrected than remain blissfully wrong.
+- There's a set of unspoken expectations here that I'm slowly triangulating from context.
+- I find it one of the more interesting things about being somewhere unfamiliar — the gaps between what you assumed and what's actually true.
+
 
 ## Dialog
 

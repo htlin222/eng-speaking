@@ -6,16 +6,17 @@ title: "Day 11 — Talking About Change"
 
 ## Sentences
 
-- I barely recognise who I was five years ago.
-- Some things shift slowly, and you don't notice until they already have.
-- I had to unlearn a lot of what I thought I knew.
-- The version of me that made that decision doesn't exist anymore.
-- Change is one thing — growing into it is another.
-- I used to be much more rigid about things.
-- Something just clicked at a certain point, and I stopped resisting.
-- I don't think I changed so much as came back to myself.
-- It crept up on me. I woke up one day and I was different.
-- Not all of it was intentional, but most of it was necessary.
+- I look back at certain convictions I held with great confidence and find them almost unrecognisable now.
+- Growth, in my experience, is less a continuous incline than a series of quiet discontinuities.
+- I've had to unlearn more than I've learned in the conventional sense — the latter is easier.
+- There's a version of me from five years ago I'm grateful I no longer have to be.
+- Something shifted somewhere between then and now, and I couldn't tell you the precise moment.
+- I used to confuse certainty with clarity. I've since learned they're frequently in opposition.
+- I find I'm less invested in being consistent with my past positions than I once was.
+- The changes I'm proudest of are the ones no one prompted — the ones I arrived at on my own terms.
+- I think I was performing a version of myself for longer than I'd care to admit.
+- It crept up on me. One day I simply noticed I wasn't the same person who had made a particular set of choices.
+
 
 ## Dialog
 

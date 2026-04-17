@@ -6,16 +6,17 @@ title: "Day 22 — Deep Conversation"
 
 ## Sentences
 
-- What do you actually believe about it, underneath all the usual answers?
-- I find it harder to talk about the things I'm certain of than the things I'm not.
-- I think conviction without doubt is more dangerous than doubt without conviction.
-- Some things I understand intellectually but haven't felt yet.
-- The more I learn, the less I feel I can claim to know.
-- I've stopped needing to be right about everything. It's a relief.
-- There are questions I carry rather than answer.
-- I used to think certainty was a virtue. I'm not sure anymore.
-- The most honest conversations I've had started with someone saying "I don't know."
-- I think we're both circling the same thing from different sides.
+- I find certain questions more interesting to carry than to resolve. This is one of them.
+- The honest answer requires more honesty about my uncertainty than I usually volunteer in conversation.
+- I've come to distrust the positions I arrived at easily. The worthwhile ones required more discomfort.
+- There's a meaningful difference between a view I've examined and a view I've merely inherited. I try to know which I'm holding.
+- I think the question matters more than any particular answer to it, and I mean that without evasion.
+- I've changed my position on this more than once, which I regard as the appropriate response to actually thinking about it.
+- The most intellectually honest thing I can say is that I find it genuinely difficult to hold all the considerations together simultaneously.
+- Some things I understand with my mind that I haven't yet felt with anything else. I wonder if that distinction matters.
+- I'm more interested in whether I'm asking the right question than in the elegance of whatever answer I can currently produce.
+- I've stopped expecting resolution on the things that most reward attention. I find that oddly freeing.
+
 
 ## Dialog
 

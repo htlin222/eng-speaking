@@ -6,16 +6,17 @@ title: "Day 21 — Filler & Transitions"
 
 ## Sentences
 
-- How do I put this without making it sound worse than it is—
-- Let me come at it from a different angle.
-- That's the short version. There's more, but I'll spare you.
-- I'm going somewhere with this — bear with me.
-- What I'm really trying to say is—
-- To bring it back to the original point—
-- Anyway, the reason I mention it is—
-- That's a slight tangent. Where was I?
-- I'll get to the point: here it is.
-- The long answer is complicated. The short answer is no.
+- Let me try to come at this from a slightly different angle, because I'm not sure I've landed it yet.
+- I should say at the outset that I'm constructing this argument as I go, so bear with me.
+- The longer version of this would take more time than is warranted. The condensed version is this.
+- I'm going somewhere with this — I recognise it doesn't look like it yet.
+- What I'm trying to say — and I'm aware I'm approaching it obliquely — is that the situation is more complicated than I've conveyed.
+- Set aside the last thing I said. I went down a path that wasn't useful.
+- To bring it back to the thing that actually matters here—
+- I want to be careful not to misrepresent my position, because I've already done that once in this conversation.
+- The short answer is no. The long answer begins with several qualifications I'm not sure we have time for.
+- Let me try once more, because I think I owe you a clearer version of what I'm actually arguing.
+
 
 ## Dialog
 
