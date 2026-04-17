@@ -8,15 +8,15 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "24天英語口說奇蹟",
+    pageTitleSuffix: " | 破解翻譯腦",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    locale: "zh-TW",
+    baseUrl: "htlin222.github.io/eng-speaking",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
