@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "24天英語口說奇蹟",
-    pageTitleSuffix: " | 破解翻譯腦",
+    pageTitle: "24天英文口說的蜥蜴",
+    pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {

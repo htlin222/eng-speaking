@@ -1,86 +1,34 @@
 ---
-title: 24天英語口說奇蹟
-description: 破解翻譯腦，三步驟打造母語級表達力
-tags: [english, speaking, course]
+title: 24天英文口說的蜥蜴
 ---
 
-# 24天英語口說奇蹟
+# 24天英文口說的蜥蜴
 
-> 破解翻譯腦，三步驟打造母語級表達力
+每天一個主題，20分鐘，24天。
 
-## 關於這門課
-
-這不是傳統「背句型→造句→翻譯」的學習法。
-
-這是一套從**自然聽 → 模仿說 → 情境對話 → 思維轉換**的母語式訓練系統，每天只需 **20 分鐘**，24天後你的英文語感將從根本改變。
-
----
-
-## 講師介紹
-
-**林熙老師（Brett Lin）**
-
-- 25 年以上語言教學經驗
-- 精通美式／英式／澳式英語
-- 學生遍布 25 國以上
-- 劍橋 CELTA 師資證書
-- 哥倫比亞大學學習顧問認證
-
----
-
-## 核心訓練法：Turn Dialogs
-
-首創「Turn Dialogs」訓練法，每天一組對話，透過三步驟：
-
-1. **跟說** — 聽老師示範，模仿語調與節奏
-2. **錄音** — 錄下自己的聲音，強化口腔肌肉記憶
-3. **回放評估** — 比較進步，腦中重組再演練
-
-對話從 2-Turn 短對話延伸到 8-Turn 深入對談，循序漸進。
-
----
-
-## 課程特色
-
-| 特色 | 說明 |
-|------|------|
-| 82 法則 | 20% 高頻句型解鎖 80% 日常會話 |
-| 600 句庫 | 主題式萬用句庫，即學即用 |
-| 全英文授課 | 搭配關鍵字提示，不混亂 |
-| 空耳強迫練聽 | 無字幕模式強化聽力敏感度 |
-| 24 天錄音比對 | Day 1 vs Day 24，聽見自己的改變 |
-
----
-
-## 九大主題情境
-
-1. 安慰朋友
-2. 解釋立場
-3. 談論文化差異
-4. 旅遊對話
-5. 健身運動
-6. 日常生活小事
-7. 職場溝通
-8. 人生深度談話
-9. 自由應答練習
-
----
-
-## 學習路徑
-
-```
-步驟 1 → 看影片、聽示範 → 模仿跟讀（耳聽嘴講）
-步驟 2 → 盲聽模式 + 高能句型講義 → 強化口腔肌肉記憶
-步驟 3 → 回看影片時已能自然說出口 → 語調流暢明顯提升
-```
-
----
-
-## 開始學習
-
-- [[days/week-1|第一週：建立語感基礎]]
-- [[days/week-2|第二週：情境對話展開]]
-- [[days/week-3|第三週：深度表達訓練]]
-- [[days/week-4|第四週：自由應答突破]]
-- [[themes/index|九大主題總覽]]
-- [[resources/phrase-bank|600句萬用句庫]]
+| 週 | 天 | 主題 |
+|---|---|------|
+| 1 | [[days/day-01\|Day 01]] | Reconnecting |
+| 1 | [[days/day-02\|Day 02]] | Expressing Feelings |
+| 1 | [[days/day-03\|Day 03]] | Weekend & Leisure |
+| 1 | [[days/day-04\|Day 04]] | Opinions & Reactions |
+| 1 | [[days/day-05\|Day 05]] | Making Plans |
+| 1 | [[days/day-06\|Day 06]] | Food & Eating |
+| 2 | [[days/day-07\|Day 07]] | Work & Career |
+| 2 | [[days/day-08\|Day 08]] | Travel & Getting Around |
+| 2 | [[days/day-09\|Day 09]] | Giving & Receiving Advice |
+| 2 | [[days/day-10\|Day 10]] | Describing People |
+| 2 | [[days/day-11\|Day 11]] | Talking About Change |
+| 2 | [[days/day-12\|Day 12]] | Health & Wellbeing |
+| 3 | [[days/day-13\|Day 13]] | Agreeing & Disagreeing |
+| 3 | [[days/day-14\|Day 14]] | Telling Stories |
+| 3 | [[days/day-15\|Day 15]] | Cultural Curiosity |
+| 3 | [[days/day-16\|Day 16]] | Expressing Uncertainty |
+| 3 | [[days/day-17\|Day 17]] | Persuading & Negotiating |
+| 3 | [[days/day-18\|Day 18]] | Comfort & Support |
+| 4 | [[days/day-19\|Day 19]] | Goals & Ambitions |
+| 4 | [[days/day-20\|Day 20]] | Regrets & Reflection |
+| 4 | [[days/day-21\|Day 21]] | Filler & Transitions |
+| 4 | [[days/day-22\|Day 22]] | Deep Conversation |
+| 4 | [[days/day-23\|Day 23]] | Improvisation |
+| 4 | [[days/day-24\|Day 24]] | Free Response |
